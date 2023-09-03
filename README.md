@@ -1,4 +1,4 @@
-(Image)[https://raw.githubusercontent.com/MuratDevelopment/UndertaleFormatter/master/32%20x%2032%20-%20BMP%20(32-bit).png?token=GHSAT0AAAAAACG2CMBUBR7GRPAX7AFSVZDSZHUVHTQ]
+[https://raw.githubusercontent.com/MuratDevelopment/UndertaleFormatter/master/32%20x%2032%20-%20BMP%20(32-bit).png?token=GHSAT0AAAAAACG2CMBUBR7GRPAX7AFSVZDSZHUVHTQ]
 
 # UndertaleFormatter
 
